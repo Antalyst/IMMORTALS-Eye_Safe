@@ -1,0 +1,66 @@
+/**
+ * Feed Monitoring Styles
+ * Styles for verification indicators injected into social media feeds
+ */
+
+/* Verification Indicator Styles */
+.veritas-indicator {
+  animation: slideInRight 0.3s ease-out;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  user-select: none;
+  pointer-events: auto;
+}
+
+.veritas-indicator:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* Post Highlight Styles */
+article[data-veritas-processed="true"] {
+  transition: all 0.3s ease;
+  position: relative;
+}
+
+article[data-veritas-processed="true"]:hover {
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+/* Verification Details Modal */
+.veritas-details-modal {
+  animation: fadeInScale 0.3s ease-out;
+  backdrop-filter: blur(10px);
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: translate(-50%, -50%) scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: translate(-50%, -50%) scale(1);
+  }
+}
+
+.veritas-details-modal .close-btn:hover {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+}
+
+/* Ensure indicators are visible above feed content */
+.veritas-indicator {
+  z-index: 10000 !important;
+}
+

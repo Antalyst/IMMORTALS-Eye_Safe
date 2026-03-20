@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 95,
+        "label": "Hotspot_095",
+        "crime_type": "Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-05-01 12:14:00",
+        "note": "Synthetic incident: Harassment reported near downtown area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8367, 10.5253]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 96,
+        "label": "Hotspot_096",
+        "crime_type": "Theft",
+        "severity": "Medium",
+        "reported_at": "2025-05-01 14:32:00",
+        "note": "Synthetic incident: Theft reported near Bago City market."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8442, 10.5289]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 97,
+        "label": "Hotspot_097",
+        "crime_type": "Drug Activity",
+        "severity": "High",
+        "reported_at": "2025-05-02 09:05:00",
+        "note": "Synthetic incident: Drug Activity reported near park area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8391, 10.5327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 98,
+        "label": "Hotspot_098",
+        "crime_type": "Vandalism",
+        "severity": "Low",
+        "reported_at": "2025-05-02 16:50:00",
+        "note": "Synthetic incident: Vandalism reported near school area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8478, 10.5264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 99,
+        "label": "Hotspot_099",
+        "crime_type": "Robbery",
+        "severity": "High",
+        "reported_at": "2025-05-03 18:12:00",
+        "note": "Synthetic incident: Robbery reported near commercial area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8359, 10.5308]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 100,
+        "label": "Hotspot_100",
+        "crime_type": "Stalking",
+        "severity": "High",
+        "reported_at": "2025-05-03 21:45:00",
+        "note": "Synthetic incident: Stalking reported near residential area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8423, 10.5248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "label": "Hotspot_101",
+        "crime_type": "Cyber Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-05-04 10:30:00",
+        "note": "Synthetic incident: Cyber Harassment reported near internet café."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8486, 10.5332]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "label": "Hotspot_102",
+        "crime_type": "Fraud",
+        "severity": "Medium",
+        "reported_at": "2025-05-04 12:40:00",
+        "note": "Synthetic incident: Fraud reported near local bank."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8384, 10.5276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 103,
+        "label": "Hotspot_103",
+        "crime_type": "Assault",
+        "severity": "High",
+        "reported_at": "2025-05-05 07:20:00",
+        "note": "Synthetic incident: Assault reported near street corner."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8451, 10.5295]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 104,
+        "label": "Hotspot_104",
+        "crime_type": "Illegal Gathering",
+        "severity": "Low",
+        "reported_at": "2025-05-05 19:00:00",
+        "note": "Synthetic incident: Illegal Gathering reported near plaza."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8362, 10.5341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 105,
+        "label": "Hotspot_105",
+        "crime_type": "Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-05-06 11:55:00",
+        "note": "Synthetic incident: Harassment reported near residential area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8417, 10.5314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 106,
+        "label": "Hotspot_106",
+        "crime_type": "Theft",
+        "severity": "Medium",
+        "reported_at": "2025-05-06 14:40:00",
+        "note": "Synthetic incident: Theft reported near market area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8493, 10.5278]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 107,
+        "label": "Hotspot_107",
+        "crime_type": "Drug Activity",
+        "severity": "High",
+        "reported_at": "2025-05-07 09:15:00",
+        "note": "Synthetic incident: Drug Activity reported near alleyway."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8375, 10.5259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 108,
+        "label": "Hotspot_108",
+        "crime_type": "Robbery",
+        "severity": "High",
+        "reported_at": "2025-05-07 18:50:00",
+        "note": "Synthetic incident: Robbery reported near bus terminal."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8436, 10.5323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 109,
+        "label": "Hotspot_109",
+        "crime_type": "Vandalism",
+        "severity": "Low",
+        "reported_at": "2025-05-08 07:30:00",
+        "note": "Synthetic incident: Vandalism reported near public building."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8408, 10.5267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 110,
+        "label": "Hotspot_110",
+        "crime_type": "Stalking",
+        "severity": "High",
+        "reported_at": "2025-05-08 21:20:00",
+        "note": "Synthetic incident: Stalking reported near school area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8464, 10.5302]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "label": "Hotspot_111",
+        "crime_type": "Cyber Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-05-09 13:05:00",
+        "note": "Synthetic incident: Cyber Harassment reported near internet café."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8353, 10.5284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 112,
+        "label": "Hotspot_112",
+        "crime_type": "Fraud",
+        "severity": "Medium",
+        "reported_at": "2025-05-09 16:20:00",
+        "note": "Synthetic incident: Fraud reported near small business area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8449, 10.5348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 113,
+        "label": "Hotspot_113",
+        "crime_type": "Illegal Gathering",
+        "severity": "Low",
+        "reported_at": "2025-05-10 08:15:00",
+        "note": "Synthetic incident: Illegal Gathering reported near park area."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8397, 10.5291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 114,
+        "label": "Hotspot_114",
+        "crime_type": "Theft",
+        "severity": "Medium",
+        "reported_at": "2025-05-10 12:45:00",
+        "note": "Synthetic incident: Theft reported near commercial street."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8471, 10.5316]
+      }
+    }
+  ]
+}

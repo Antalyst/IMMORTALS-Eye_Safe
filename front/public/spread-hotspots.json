@@ -1,0 +1,155 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "label": "Hotspot_001",
+        "crime_type": "Theft",
+        "severity": "Medium",
+        "reported_at": "2025-10-15 14:23:45",
+        "note": "Theft incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8428314, 10.531136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "label": "Hotspot_002",
+        "crime_type": "Drug Activity",
+        "severity": "High",
+        "reported_at": "2025-10-14 13:15:22",
+        "note": "Drug activity reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8508314, 10.535136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "label": "Hotspot_003",
+        "crime_type": "Robbery",
+        "severity": "High",
+        "reported_at": "2025-10-13 22:45:11",
+        "note": "Robbery incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8348314, 10.527136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "label": "Hotspot_004",
+        "crime_type": "Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-10-12 18:33:09",
+        "note": "Harassment incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8378314, 10.538136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "label": "Hotspot_005",
+        "crime_type": "Vandalism",
+        "severity": "Low",
+        "reported_at": "2025-10-11 21:17:33",
+        "note": "Vandalism reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8478314, 10.524136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "label": "Hotspot_006",
+        "crime_type": "Assault",
+        "severity": "High",
+        "reported_at": "2025-10-10 15:42:18",
+        "note": "Assault incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8498314, 10.532136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "label": "Hotspot_007",
+        "crime_type": "Drug Activity",
+        "severity": "High",
+        "reported_at": "2025-10-09 12:11:45",
+        "note": "Drug activity reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8358314, 10.533136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "label": "Hotspot_008",
+        "crime_type": "Harassment",
+        "severity": "Medium",
+        "reported_at": "2025-10-08 08:55:29",
+        "note": "Harassment incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8468314, 10.529136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "label": "Hotspot_009",
+        "crime_type": "Theft",
+        "severity": "Medium",
+        "reported_at": "2025-10-07 22:18:37",
+        "note": "Theft incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8388314, 10.536136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "label": "Hotspot_010",
+        "crime_type": "Vandalism",
+        "severity": "Low",
+        "reported_at": "2025-10-06 16:44:51",
+        "note": "Vandalism incident reported"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [122.8458314, 10.525136]
+      }
+    }
+  ]
+}

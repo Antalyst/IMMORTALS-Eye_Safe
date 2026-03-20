@@ -1,0 +1,29 @@
+{
+  "name": "immortals-eye-safe",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "cross-env NODE_TLS_REJECT_UNAUTHORIZED=0 nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@huggingface/transformers": "^3.7.6",
+    "@nuxtjs/tailwindcss": "^6.14.0",
+    "@types/leaflet": "^1.9.21",
+    "@types/three": "^0.181.0",
+    "@xenova/transformers": "^2.17.2",
+    "gsap": "^3.12.5",
+    "leaflet": "^1.9.4",
+    "nuxt": "^4.2.0",
+    "string-similarity": "^4.0.4",
+    "three": "^0.181.0",
+    "vue": "^3.5.22",
+    "vue-router": "^4.6.3"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0"
+  }
+}

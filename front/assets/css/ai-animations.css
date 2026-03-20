@@ -1,0 +1,103 @@
+.ai-cube {
+  transform-style: preserve-3d;
+  animation: cubeRotate 20s infinite linear;
+}
+
+.ai-cube-face {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgba(6, 182, 212, 0.5);
+  background: rgba(6, 182, 212, 0.1);
+  backdrop-filter: blur(4px);
+}
+
+.front { transform: translateZ(20px); }
+.back { transform: translateZ(-20px) rotateY(180deg); }
+.right { transform: translateX(20px) rotateY(90deg); }
+.left { transform: translateX(-20px) rotateY(-90deg); }
+.top { transform: translateY(-20px) rotateX(90deg); }
+.bottom { transform: translateY(20px) rotateX(-90deg); }
+
+@keyframes cubeRotate {
+  0% { transform: rotateX(0) rotateY(0) rotateZ(0); }
+  100% { transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg); }
+}
+
+.neuron-pulse {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  background: #06b6d4;
+  border-radius: 50%;
+  filter: blur(1px);
+  animation: neuronPulse 4s infinite;
+}
+
+@keyframes neuronPulse {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(2);
+    opacity: 0.5;
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+.ai-network {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.ai-network::before,
+.ai-network::after {
+  content: '';
+  position: absolute;
+  background: linear-gradient(90deg, #06b6d4, #3b82f6);
+  animation: networkFlow 3s infinite;
+}
+
+@keyframes networkFlow {
+  0% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    opacity: 0.3;
+  }
+  50% {
+    clip-path: polygon(10% 10%, 90% 10%, 90% 90%, 10% 90%);
+    opacity: 0.6;
+  }
+  100% {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+    opacity: 0.3;
+  }
+}
+
+.floating {
+  animation: floating 6s ease-in-out infinite;
+  transform-style: preserve-3d;
+}
+
+@keyframes floating {
+  0% { transform: translateY(0px) translateZ(0); }
+  50% { transform: translateY(-20px) translateZ(20px); }
+  100% { transform: translateY(0px) translateZ(0); }
+}
+
+.grid-animation {
+  background: 
+    linear-gradient(90deg, rgba(6, 182, 212, 0.1) 1px, transparent 1px),
+    linear-gradient(rgba(6, 182, 212, 0.1) 1px, transparent 1px);
+  background-size: 30px 30px;
+  animation: gridMove 20s linear infinite;
+}
+
+@keyframes gridMove {
+  0% { background-position: 0 0; }
+  100% { background-position: 30px 30px; }
+}

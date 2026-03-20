@@ -1,0 +1,1552 @@
+[
+  {
+    "textHash": "363e134f6619f638c0307455b5d70044",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945275039,
+    "expiresAt": 1774031675039
+  },
+  {
+    "textHash": "bbd1742fa19a24e68c04afd063a86534",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945279762,
+    "expiresAt": 1774031679762
+  },
+  {
+    "textHash": "45bc59cc0c51a49a31058bcabc0b7e9e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945282235,
+    "expiresAt": 1774031682235
+  },
+  {
+    "textHash": "ee328cf7eb9d0300e997200edb6b548c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945284727,
+    "expiresAt": 1774031684727
+  },
+  {
+    "textHash": "e3f03b25daf35ed4298b2cffbc7513cc",
+    "result": {
+      "verdict": "Likely True",
+      "confidence": 0.95,
+      "sources": [
+        "Bago City Official Website",
+        "Negros Occidental Police News",
+        "Local News: Sun Star Bacolod",
+        "Local News: Visayan Daily Star",
+        "Philippine National Police - Region 6",
+        "Search: Bago City PNP other",
+        "Search: BAGO Component City Police Station other",
+        "Search: Bago City other 2026",
+        "Search: Bago City other today"
+      ],
+      "reasoning": "✅ VERIFIED (OFFICIAL SOURCE - Fuzzy Match 100%): Source \"BAGO Component City Police Station\" matched against trusted sources whitelist with 100% similarity. Matched: \"Bago Component City Police Station\". OCR corrections: None. Raw OCR: \"BAGO Component City Police Station\". Official police/government reports are authoritative."
+    },
+    "timestamp": 1773945474461,
+    "expiresAt": 1774031874461
+  },
+  {
+    "textHash": "bd7c08d5df8aa6aceba033d00b6055a8",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945475571,
+    "expiresAt": 1774031875571
+  },
+  {
+    "textHash": "6f7d287e67c1c6ddd2fab433256bdffd",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945476322,
+    "expiresAt": 1774031876322
+  },
+  {
+    "textHash": "a142f70c91e2bc293c6c602005e9cd55",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945477396,
+    "expiresAt": 1774031877396
+  },
+  {
+    "textHash": "88723e307d8884c953d28b1c5d97134d",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773945478439,
+    "expiresAt": 1774031878439
+  },
+  {
+    "textHash": "65b3184937a57522623790a23a03dafc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773947868960,
+    "expiresAt": 1774034268960
+  },
+  {
+    "textHash": "d75d4e58f597e4f217802dc56ed3347a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773949929118,
+    "expiresAt": 1774036329118
+  },
+  {
+    "textHash": "ad19731b5e2207058c36c580e1ceb606",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773949930717,
+    "expiresAt": 1774036330717
+  },
+  {
+    "textHash": "c353ba3d61cf7d3106a2e17dca6cf164",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773950225973,
+    "expiresAt": 1774036625973
+  },
+  {
+    "textHash": "af1e9f704becf9c7b5ced818e4d29398",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773950980797,
+    "expiresAt": 1774037380797
+  },
+  {
+    "textHash": "f5f14c7005f23802cd00de1995ef14d0",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773950984165,
+    "expiresAt": 1774037384165
+  },
+  {
+    "textHash": "36240a9a7edb74c3a3410554aca0ef6e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773950984510,
+    "expiresAt": 1774037384510
+  },
+  {
+    "textHash": "8c1006be03a40f9d2b00254f88ca4250",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773950998930,
+    "expiresAt": 1774037398930
+  },
+  {
+    "textHash": "1390a1bb77307d0bb9eb42b305594fca",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953036560,
+    "expiresAt": 1774039436560
+  },
+  {
+    "textHash": "0d6bb28a621fb6d7a738a9817ebb1638",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953064688,
+    "expiresAt": 1774039464688
+  },
+  {
+    "textHash": "05a60c5c1100ef1c7e7b13ab9c159207",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953067433,
+    "expiresAt": 1774039467433
+  },
+  {
+    "textHash": "69eb307dff583bb378817777004733c2",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953190189,
+    "expiresAt": 1774039590189
+  },
+  {
+    "textHash": "2ceafcd71b19b58b5d10760963370c9c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953220295,
+    "expiresAt": 1774039620295
+  },
+  {
+    "textHash": "d3d4004de135d3a1b27988ccce4fbc8e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953236314,
+    "expiresAt": 1774039636314
+  },
+  {
+    "textHash": "b4a53a64e8471cc76e8be13484deb3c9",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953239154,
+    "expiresAt": 1774039639154
+  },
+  {
+    "textHash": "af7e2b4a3b374408b4da0ba96af3a1c6",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953282793,
+    "expiresAt": 1774039682793
+  },
+  {
+    "textHash": "b013f00ed385fcc339e082dc7d59cad2",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953612488,
+    "expiresAt": 1774040012488
+  },
+  {
+    "textHash": "195d2e78504dd7d9a6f2451e30eeb2b9",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953613636,
+    "expiresAt": 1774040013636
+  },
+  {
+    "textHash": "7bea6158880d310b3d43b693b8f62b93",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953614539,
+    "expiresAt": 1774040014539
+  },
+  {
+    "textHash": "c174202cb11251295b6ad6bf5626f7c1",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953617174,
+    "expiresAt": 1774040017174
+  },
+  {
+    "textHash": "dea141da96f65516b5ccd24dc4b558da",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1773953617926,
+    "expiresAt": 1774040017926
+  },
+  {
+    "textHash": "5371d7c3180be7d9e17604b544abe293",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016733319,
+    "expiresAt": 1774103133319
+  },
+  {
+    "textHash": "32ccde047fee14054c7175dbde484b2c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016734276,
+    "expiresAt": 1774103134276
+  },
+  {
+    "textHash": "6c610100f1d4ec1d7814b05313791f33",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016735550,
+    "expiresAt": 1774103135550
+  },
+  {
+    "textHash": "b5340224ee14d73d400faf4abe27efc4",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016735975,
+    "expiresAt": 1774103135975
+  },
+  {
+    "textHash": "16d1e7fc130f59981e3d18db21f2612c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016736372,
+    "expiresAt": 1774103136372
+  },
+  {
+    "textHash": "e68215e1a612a14b3e4c4f9b41802527",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016737715,
+    "expiresAt": 1774103137715
+  },
+  {
+    "textHash": "f8ee36bbb61a82c7ae3b9ab482f322f9",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016738941,
+    "expiresAt": 1774103138941
+  },
+  {
+    "textHash": "75bde43be973ab12c166df5f4da70274",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016740356,
+    "expiresAt": 1774103140356
+  },
+  {
+    "textHash": "3d3a2b79e5c346ddf3011c1e58d36083",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016745827,
+    "expiresAt": 1774103145827
+  },
+  {
+    "textHash": "a498fad28c7a9ef971bbab7475c9ebf2",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016747600,
+    "expiresAt": 1774103147600
+  },
+  {
+    "textHash": "fc296792f5cfc3aed1a6a7e810d3e8bf",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016747974,
+    "expiresAt": 1774103147974
+  },
+  {
+    "textHash": "4e05d789cf22ddb243ac0e31afe6997e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016748480,
+    "expiresAt": 1774103148480
+  },
+  {
+    "textHash": "38cff325198240054b2a96ffbfb50639",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016748701,
+    "expiresAt": 1774103148701
+  },
+  {
+    "textHash": "217ed57f372f065c9583d274d0cb041b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016837881,
+    "expiresAt": 1774103237881
+  },
+  {
+    "textHash": "e7ff4124c30f5f5421b9e66018f61739",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016838265,
+    "expiresAt": 1774103238265
+  },
+  {
+    "textHash": "4729b76f06aad2fd42eec3fdd701ab88",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016839016,
+    "expiresAt": 1774103239016
+  },
+  {
+    "textHash": "84133dae23c18fbc266b0e8a69671418",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016839340,
+    "expiresAt": 1774103239340
+  },
+  {
+    "textHash": "2c95d8c4f573cd70548d507ef5b3e86f",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016850871,
+    "expiresAt": 1774103250871
+  },
+  {
+    "textHash": "63d787fb7d57ed59bbfc00543e80b91b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016852484,
+    "expiresAt": 1774103252484
+  },
+  {
+    "textHash": "0904aaeae27d309bd134f91779ad52ef",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016853211,
+    "expiresAt": 1774103253211
+  },
+  {
+    "textHash": "0d46769c8abaa585c59330ed8678752d",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016871386,
+    "expiresAt": 1774103271386
+  },
+  {
+    "textHash": "472d1234b96cb235c6633fbb6283a571",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016873287,
+    "expiresAt": 1774103273287
+  },
+  {
+    "textHash": "1b3e636c7eaafd5f4202db956cf805ad",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016882401,
+    "expiresAt": 1774103282401
+  },
+  {
+    "textHash": "10fccbc947ef5dd9b167694f5f2ac131",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774016883834,
+    "expiresAt": 1774103283834
+  },
+  {
+    "textHash": "45aded195e2d10787bc1053ad8c2de0e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018932685,
+    "expiresAt": 1774105332685
+  },
+  {
+    "textHash": "7399964db34f16cafb3828b07b3f1814",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018933456,
+    "expiresAt": 1774105333456
+  },
+  {
+    "textHash": "43e918cf0035e00f8d14c168eabaaddb",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018934502,
+    "expiresAt": 1774105334502
+  },
+  {
+    "textHash": "45129ea484a0039c3d7f5f4d5f7ed857",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018936089,
+    "expiresAt": 1774105336089
+  },
+  {
+    "textHash": "262c921cd3291699846afd762044fa98",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018939215,
+    "expiresAt": 1774105339215
+  },
+  {
+    "textHash": "b10564680d3390281dba58ed16294956",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774018941653,
+    "expiresAt": 1774105341653
+  },
+  {
+    "textHash": "90cb260f7bdc6f6504e595f9aaa4d392",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021676330,
+    "expiresAt": 1774108076330
+  },
+  {
+    "textHash": "3aa7608b5d25f7b27a1440f3af30fb33",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021677205,
+    "expiresAt": 1774108077205
+  },
+  {
+    "textHash": "895d78c24629daff444fcabf13c897c7",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021681880,
+    "expiresAt": 1774108081880
+  },
+  {
+    "textHash": "e5f1595c288d02f7077c15d7ca142b52",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021684742,
+    "expiresAt": 1774108084742
+  },
+  {
+    "textHash": "cc3a74b564df59b30139c3d33b21dc7a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021685901,
+    "expiresAt": 1774108085901
+  },
+  {
+    "textHash": "7f380592fadb2940cd6ce36d5ed96af1",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021688315,
+    "expiresAt": 1774108088315
+  },
+  {
+    "textHash": "84eb9923296571aa9a0e33f147a64950",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021688832,
+    "expiresAt": 1774108088832
+  },
+  {
+    "textHash": "193bb9cbb78bd627b7eb666286156f77",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021705816,
+    "expiresAt": 1774108105816
+  },
+  {
+    "textHash": "d6a1ca30af5395b2c471a3a6ad47d655",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021707897,
+    "expiresAt": 1774108107897
+  },
+  {
+    "textHash": "b4f0be0592c13d26086f43da749e288a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021708682,
+    "expiresAt": 1774108108682
+  },
+  {
+    "textHash": "6778da2934ce5d23ec339484edc6e22f",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021730104,
+    "expiresAt": 1774108130104
+  },
+  {
+    "textHash": "841ccb556ac7b1557c297890500c068b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021730937,
+    "expiresAt": 1774108130937
+  },
+  {
+    "textHash": "02ba2e8cdb0205169e0cf22bf3023e12",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021731434,
+    "expiresAt": 1774108131434
+  },
+  {
+    "textHash": "5d2825156ce84708f46615375750f7f5",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021734253,
+    "expiresAt": 1774108134253
+  },
+  {
+    "textHash": "59923ec9ab92b7f5918c9c2009c73d3d",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021759882,
+    "expiresAt": 1774108159882
+  },
+  {
+    "textHash": "51b55a88dd5b8298f964727f35c4c959",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021763326,
+    "expiresAt": 1774108163326
+  },
+  {
+    "textHash": "b89d39ebccd804b3aa83b922cb83d1fc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774021811431,
+    "expiresAt": 1774108211431
+  },
+  {
+    "textHash": "1e85d3737b2540da3e58434a4a0e2015",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022276262,
+    "expiresAt": 1774108676262
+  },
+  {
+    "textHash": "dbc2fde3aecd71225183ee2ecb5efe52",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022285364,
+    "expiresAt": 1774108685364
+  },
+  {
+    "textHash": "f9c21b44be0bfce4f1cdf7cf9cf58aff",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022483705,
+    "expiresAt": 1774108883705
+  },
+  {
+    "textHash": "7d68cbc831baf1e560023b73f07071d1",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022484363,
+    "expiresAt": 1774108884363
+  },
+  {
+    "textHash": "1fb4d4915e8e5919d0b90b0db3f8548c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022488595,
+    "expiresAt": 1774108888595
+  },
+  {
+    "textHash": "f8ee9919542dcca2ae4bc23a516d75fb",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022489502,
+    "expiresAt": 1774108889502
+  },
+  {
+    "textHash": "2fd714a5c8ccd885a6c88d6fde7a0a11",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022490294,
+    "expiresAt": 1774108890294
+  },
+  {
+    "textHash": "6a80ea6761f9c8e43d9107aaca8245e3",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022509361,
+    "expiresAt": 1774108909361
+  },
+  {
+    "textHash": "18b6eb4cf534182018c83df5f06dce26",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022509904,
+    "expiresAt": 1774108909904
+  },
+  {
+    "textHash": "0ba135555f926e932f49b0552e9df291",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022512635,
+    "expiresAt": 1774108912635
+  },
+  {
+    "textHash": "0d073b463196d5f5d8d65f5213b9a36a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022513530,
+    "expiresAt": 1774108913530
+  },
+  {
+    "textHash": "446ad24bd9a5bc8b6c4342fe23149984",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022712719,
+    "expiresAt": 1774109112719
+  },
+  {
+    "textHash": "78cfd9e0e065a378e84543f5cf8c40ff",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022714236,
+    "expiresAt": 1774109114236
+  },
+  {
+    "textHash": "4a74f2e5a16df1d3c90ac1a76d5e48dc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022881806,
+    "expiresAt": 1774109281806
+  },
+  {
+    "textHash": "acd7763ba667348eeb670cd0cd9c0559",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022882469,
+    "expiresAt": 1774109282469
+  },
+  {
+    "textHash": "e422d07c63756ec0fb7d91c3d17dfc9e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022884457,
+    "expiresAt": 1774109284457
+  },
+  {
+    "textHash": "d60a8a94125afc5ba6bfa83889a1dcf8",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022885354,
+    "expiresAt": 1774109285354
+  },
+  {
+    "textHash": "dbc101f9291d14c291256ac909168b24",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022885731,
+    "expiresAt": 1774109285731
+  },
+  {
+    "textHash": "b94ecf8fc34d62df5f35fb812ab97e64",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022886617,
+    "expiresAt": 1774109286617
+  },
+  {
+    "textHash": "18544f1f5005349896ee9af4551b1ac7",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022887039,
+    "expiresAt": 1774109287039
+  },
+  {
+    "textHash": "0ff16693a385734ad939abbfa0a15c88",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774022999385,
+    "expiresAt": 1774109399385
+  },
+  {
+    "textHash": "9c6deb8ee004590258935fc01384bffb",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023002214,
+    "expiresAt": 1774109402214
+  },
+  {
+    "textHash": "79e3be01c0e026e66d977916e55d62dd",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023064023,
+    "expiresAt": 1774109464023
+  },
+  {
+    "textHash": "63663ac651b7199a25875b594ed020c3",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023064493,
+    "expiresAt": 1774109464493
+  },
+  {
+    "textHash": "24fbeb7f69b4ee1cba8eb52177e8ba85",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023068009,
+    "expiresAt": 1774109468009
+  },
+  {
+    "textHash": "9f88d50c833a35cb421a66058c151d4e",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023069746,
+    "expiresAt": 1774109469746
+  },
+  {
+    "textHash": "8994f1f34ec5a0facc428808516433be",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023071154,
+    "expiresAt": 1774109471154
+  },
+  {
+    "textHash": "93052a73895b42610f8f9eee7bfec50a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023071657,
+    "expiresAt": 1774109471657
+  },
+  {
+    "textHash": "fbdd5c69157377587595cd19278fdf33",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023072189,
+    "expiresAt": 1774109472189
+  },
+  {
+    "textHash": "09794f480832de469abd3820ba53bf23",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023098129,
+    "expiresAt": 1774109498129
+  },
+  {
+    "textHash": "4c78bc98e4993af9dc687e4cf69d39aa",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023101383,
+    "expiresAt": 1774109501383
+  },
+  {
+    "textHash": "94be4860ada2c7399435d3d4221f36a1",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023125639,
+    "expiresAt": 1774109525639
+  },
+  {
+    "textHash": "6dc8d7f63f5bc54043150bd9e15f6a4a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023126288,
+    "expiresAt": 1774109526288
+  },
+  {
+    "textHash": "1e5b0dffeaa8d797d429a3b4f5be7953",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023197601,
+    "expiresAt": 1774109597601
+  },
+  {
+    "textHash": "7ebe5bc2d58bdbdc09c0e98470d8dc90",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023199107,
+    "expiresAt": 1774109599107
+  },
+  {
+    "textHash": "6a9d2ea0dc3504f4c3a02e0af1f000dc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023199910,
+    "expiresAt": 1774109599910
+  },
+  {
+    "textHash": "4aee2d73dcaea63df59b6dff749411cc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023204430,
+    "expiresAt": 1774109604430
+  },
+  {
+    "textHash": "0f795c408d780a619646acd79277780c",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023209879,
+    "expiresAt": 1774109609879
+  },
+  {
+    "textHash": "97bdb2b0a2be27a7a89295e3621bc8d6",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023211651,
+    "expiresAt": 1774109611651
+  },
+  {
+    "textHash": "7fd683a98e6e3912e6a7f8457e35b26b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023336079,
+    "expiresAt": 1774109736079
+  },
+  {
+    "textHash": "21f06434ad17cea0a16fc861e066712b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023336854,
+    "expiresAt": 1774109736854
+  },
+  {
+    "textHash": "98c196f36d20a516a695869a35ad0b96",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023338907,
+    "expiresAt": 1774109738907
+  },
+  {
+    "textHash": "0a4c5ba11337af56e4423162183eaa2a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023444745,
+    "expiresAt": 1774109844745
+  },
+  {
+    "textHash": "83cae675ee0f16a75db808b899db6cdf",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023594428,
+    "expiresAt": 1774109994428
+  },
+  {
+    "textHash": "165c610fcec362ba53b5ee69ac9c6a1a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023602116,
+    "expiresAt": 1774110002116
+  },
+  {
+    "textHash": "6cdc10c46ea3bc848679cf6cce07be26",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023602644,
+    "expiresAt": 1774110002644
+  },
+  {
+    "textHash": "27285ea45914d03fcb84cb8b302e92e3",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023604617,
+    "expiresAt": 1774110004617
+  },
+  {
+    "textHash": "6989e417e72f1e22592648fd2341f12d",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023616617,
+    "expiresAt": 1774110016617
+  },
+  {
+    "textHash": "923d337687be528b8ae8e3962a14742b",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023617989,
+    "expiresAt": 1774110017989
+  },
+  {
+    "textHash": "b16719300df77f65d8f6ca9ac2e1d891",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023619226,
+    "expiresAt": 1774110019226
+  },
+  {
+    "textHash": "8317c3c4e6bafd7588eaaeeee2fdbe10",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023625466,
+    "expiresAt": 1774110025466
+  },
+  {
+    "textHash": "7db80b3f1713b502bb25cf8f7ed91790",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023678889,
+    "expiresAt": 1774110078889
+  },
+  {
+    "textHash": "fc1fe36e22b0a4283580a54d744f05f6",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023680868,
+    "expiresAt": 1774110080868
+  },
+  {
+    "textHash": "37b72eb63a5ad2067e52729a6ac9fafb",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023685728,
+    "expiresAt": 1774110085728
+  },
+  {
+    "textHash": "21fe29cbdbc5607e57c1316df774bf4a",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023686789,
+    "expiresAt": 1774110086789
+  },
+  {
+    "textHash": "aa4a127f071de5b0763dc8d13453ba97",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023687033,
+    "expiresAt": 1774110087033
+  },
+  {
+    "textHash": "d6eaf406ec6fd78330c5a4b4ee90302d",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023734248,
+    "expiresAt": 1774110134248
+  },
+  {
+    "textHash": "a0a5c3fbdd3b0009831361dbe3b134f9",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023735080,
+    "expiresAt": 1774110135080
+  },
+  {
+    "textHash": "7319788dd6ccac5ebeee9e299c776cba",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023927014,
+    "expiresAt": 1774110327014
+  },
+  {
+    "textHash": "47148cb19d4943311b1cb74eef6e45df",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023928083,
+    "expiresAt": 1774110328083
+  },
+  {
+    "textHash": "0e7dceb2e9e759743f2f1f37f23491de",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023937735,
+    "expiresAt": 1774110337735
+  },
+  {
+    "textHash": "ce5fb672598cb20b64f2cc3d165d96fc",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023968343,
+    "expiresAt": 1774110368343
+  },
+  {
+    "textHash": "3860abdfec697bfdcab832a6e1942959",
+    "result": {
+      "verdict": "Inconclusive",
+      "confidence": 0.3,
+      "sources": [],
+      "reasoning": "Verification inconclusive — further checking required. No verified sources found. Unable to determine truthfulness."
+    },
+    "timestamp": 1774023998333,
+    "expiresAt": 1774110398333
+  }
+]
